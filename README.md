@@ -11,7 +11,7 @@
 | Foo Guo Wei           |    [x](https://github.com/nusdistsys/submissions/issues/8)     |        |        |        |         |        |        |        |
 | Rahul Rajesh          |         |        |        |        |         |        |        |        |
 | Chen Shaowei          |         |        |        |        |         |        |        |        |
-| Jolene Tan            |         |        |        |        |         |        |        |        |
+| Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7)|        |        |        |         |        |        |        |
 | Donald Lee Qian Siang |         |        |        |        |         |        |        |        |
 | John Phua             |         |        |        |        |         |        |        |        |
 | Tay Yu Jia            |         |        |        |        |         |        |        |        |
