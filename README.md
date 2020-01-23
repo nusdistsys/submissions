@@ -8,7 +8,7 @@
 | Arslan Cheema         |         |        |        |        |         |        |        |        |
 | Lee Shimei            |         |        |        |        |         |        |        |        |
 | Joel Lee              |         |        |        |        |         |        |        |        |
-| Foo Guo Wei           |         |        |        |        |         |        |        |        |
+| Foo Guo Wei           |    [x](https://github.com/nusdistsys/submissions/issues/8)     |        |        |        |         |        |        |        |
 | Rahul Rajesh          |         |        |        |        |         |        |        |        |
 | Chen Shaowei          |         |        |        |        |         |        |        |        |
 | Jolene Tan            |         |        |        |        |         |        |        |        |
