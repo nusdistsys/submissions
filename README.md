@@ -1,4 +1,4 @@
-# submissions
+# Submission Tracker
 
 | Assignment            | Lab One | Lab 2A | Lab 2B | Lab 2C | Lab 3A  | Lab 3B | Lab 4A | Lab 4B |
 |-----------------------|---------|--------|--------|--------|---------|--------|--------|--------|
@@ -8,12 +8,10 @@
 | Arslan Cheema         |         |        |        |        |         |        |        |        |
 | Lee Shimei            |         |        |        |        |         |        |        |        |
 | Joel Lee              |         |        |        |        |         |        |        |        |
-| Foo Guo Wei           |         |        |        |        |         |        |        |        |
+| Foo Guo Wei           |    [x](https://github.com/nusdistsys/submissions/issues/8)     |        |        |        |         |        |        |        |
 | Rahul Rajesh          |         |        |        |        |         |        |        |        |
 | Chen Shaowei          |         |        |        |        |         |        |        |        |
-| Jolene Tan            |         |        |        |        |         |        |        |        |
+| Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7)|        |        |        |         |        |        |        |
 | Donald Lee Qian Siang |         |        |        |        |         |        |        |        |
 | John Phua             |         |        |        |        |         |        |        |        |
-| Tay Yu Jia            |         |        |        |        |         |        |        |        |
-
-
+| Tay Yu Jia            |[x](https://github.com/nusdistsys/submissions/issues/10)|        |        |        |         |        |        |        |
