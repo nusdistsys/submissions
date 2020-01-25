@@ -5,7 +5,7 @@
 | Julius Sander Nugroho |    [x](https://github.com/nusdistsys/submissions/issues/1)   |        |        |        |         |        |        |        |
 | Sean Ng               |    [x](https://github.com/nusdistsys/submissions/issues/2)    |    [x](https://github.com/nusdistsys/submissions/issues/3)   |        |        |         |        |        |        |
 | Cai Jiaxiu            |         |        |        |        |         |        |        |        |
-| Arslan Cheema         |         |        |        |        |         |        |        |        |
+| Arsalan Cheema         |   x    |        |        |        |         |        |        |        |
 | Lee Shimei            |         |        |        |        |         |        |        |        |
 | Joel Lee              |         |        |        |        |         |        |        |        |
 | Foo Guo Wei           |    [x](https://github.com/nusdistsys/submissions/issues/8)     |        |        |        |         |        |        |        |
