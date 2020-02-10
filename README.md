@@ -3,7 +3,7 @@
 | Assignment            | Lab One | Lab 2A | Lab 2B | Lab 2C | Lab 3A  | Lab 3B | Lab 4A | Lab 4B |
 |-----------------------|---------|--------|--------|--------|---------|--------|--------|--------|
 | Julius Sander Nugroho |    [x](https://github.com/nusdistsys/submissions/issues/1)   |        |        |        |         |        |        |        |
-| Sean Ng               |    [x](https://github.com/nusdistsys/submissions/issues/2)    |    [x](https://github.com/nusdistsys/submissions/issues/3)   |        |        |         |        |        |        |
+| Sean Ng               |    [x](https://github.com/nusdistsys/submissions/issues/2)    |    [x](https://github.com/nusdistsys/submissions/issues/3)   |    [x](https://github.com/nusdistsys/submissions/issues/13)    |        |         |        |        |        |
 | Cai Jiaxiu            |         |        |        |        |         |        |        |        |
 | Arslan Cheema         |         |        |        |        |         |        |        |        |
 | Lee Shimei            |         |        |        |        |         |        |        |        |
