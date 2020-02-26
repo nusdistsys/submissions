@@ -9,7 +9,7 @@
 | Arsalan Cheema        |[x](https://github.com/nusdistsys/submissions/issues/5) |        |        |        |         |        |        |        |
 | Lee Shimei            |         |        |        |        |         |         |        |        |
 | Joel Lee              |         |        |        |        |         |         |        |        |
-| Foo Guo Wei           |[x](https://github.com/nusdistsys/submissions/issues/8) |        |        |        |         |        |        |        |
+| Foo Guo Wei           |[x](https://github.com/nusdistsys/submissions/issues/8) |[x](https://github.com/nusdistsys/submissions/issues/19) |[x](https://github.com/nusdistsys/submissions/issues/19) |[x](https://github.com/nusdistsys/submissions/issues/19) |         |        |        |        |
 | Rahul Rajesh          |         |        |        |        |         |         |        |        |
 | Chen Shaowei          |         |        |        |        |         |         |        |        |
 | Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7) |        |        |        |         |        |        |        |
