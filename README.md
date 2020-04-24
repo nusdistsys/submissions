@@ -15,4 +15,4 @@
 | Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7) |        |        |        |         |        |        |        |
 | Donald Lee Qian Siang |         |        |        |        |         |         |        |        |
 | John Phua             |[x](https://github.com/nusdistsys/submissions/issues/9) |        |        |        |         |        |        |        |
-| Tay Yu Jia            |[x](https://github.com/nusdistsys/submissions/issues/10)|        |        |        |         |        |        |        |
+| Tay Yu Jia            |[x](https://github.com/nusdistsys/submissions/issues/10)|[x](https://github.com/nusdistsys/submissions/issues/17)|[x](https://github.com/nusdistsys/submissions/issues/17)|[x](https://github.com/nusdistsys/submissions/issues/17)|         |        |        |        |
