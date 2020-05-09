@@ -12,7 +12,7 @@
 | Foo Guo Wei           |[x](https://github.com/nusdistsys/submissions/issues/8) |[x](https://github.com/nusdistsys/submissions/issues/19) |[x](https://github.com/nusdistsys/submissions/issues/19) |[x](https://github.com/nusdistsys/submissions/issues/19) |         |        |        |        |
 | Rahul Rajesh          |         |        |        |        |         |         |        |        |
 | Chen Shaowei          |         |        |        |        |         |         |        |        |
-| Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7) |        |        |        |         |        |        |        |
+| Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7) |[x](https://github.com/nusdistsys/submissions/issues/25)|[x](https://github.com/nusdistsys/submissions/issues/25)|[x](https://github.com/nusdistsys/submissions/issues/25)|         |        |        |        |
 | Donald Lee Qian Siang |         |        |        |        |         |         |        |        |
 | John Phua             |[x](https://github.com/nusdistsys/submissions/issues/9) |[x](https://github.com/nusdistsys/submissions/issues/18)|[x](https://github.com/nusdistsys/submissions/issues/18)|[x](https://github.com/nusdistsys/submissions/issues/18)|         |        |        |        |
 | Tay Yu Jia            |[x](https://github.com/nusdistsys/submissions/issues/10)|[x](https://github.com/nusdistsys/submissions/issues/17)|[x](https://github.com/nusdistsys/submissions/issues/17)|[x](https://github.com/nusdistsys/submissions/issues/17)|         |        |        |        |
