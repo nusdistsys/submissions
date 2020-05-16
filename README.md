@@ -10,7 +10,7 @@
 | Lee Shimei            |         |        |        |        |         |         |        |        |
 | Joel Lee              |         |        |        |        |         |         |        |        |
 | Foo Guo Wei           |[x](https://github.com/nusdistsys/submissions/issues/8) |[x](https://github.com/nusdistsys/submissions/issues/19) |[x](https://github.com/nusdistsys/submissions/issues/19) |[x](https://github.com/nusdistsys/submissions/issues/19) |         |        |        |        |
-| Rahul Rajesh          | [[x](https://github.com/nusdistsys/submissions/issues/27)        | [x](https://github.com/nusdistsys/submissions/issues/26)       | [x](https://github.com/nusdistsys/submissions/issues/26)       |  [x](https://github.com/nusdistsys/submissions/issues/26)      |         |         |        |        |
+| Rahul Rajesh          | [x](https://github.com/nusdistsys/submissions/issues/27)        | [x](https://github.com/nusdistsys/submissions/issues/26)       | [x](https://github.com/nusdistsys/submissions/issues/26)       |  [x](https://github.com/nusdistsys/submissions/issues/26)      |         |         |        |        |
 | Chen Shaowei          |         |        |        |        |         |         |        |        |
 | Jolene Tan            |[x](https://github.com/nusdistsys/submissions/issues/7) |[x](https://github.com/nusdistsys/submissions/issues/25)|[x](https://github.com/nusdistsys/submissions/issues/25)|[x](https://github.com/nusdistsys/submissions/issues/25)|         |        |        |        |
 | Donald Lee Qian Siang |         |        |        |        |         |         |        |        |
